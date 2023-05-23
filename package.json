@@ -9,7 +9,7 @@
     "dev": "nodemon src/app.js -e js,hbs"
   },
   "keywords": [],
-  "author": "",
+  "author": "samridhi",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
